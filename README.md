@@ -1,0 +1,2 @@
+# PointOfSale
+manages all sales
